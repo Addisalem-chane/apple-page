@@ -4,15 +4,7 @@ This is a responsive replica of the official Apple homepage built using **HTML5*
 
 ## 🔗 Live Demo
 
-📍 [Visit the Live Site](https://adiappl.netlify.app/)
-
----
-
-## 🖼️ Screenshot
-
-![Apple Clone Screenshot](images/screenshot.png)
-
-> Replace the image path above with your actual screenshot if needed.
+📍 [Visit the Live Site]([https://addisapp.netlify.app/](https://addisapp.netlify.app/))
 
 ---
 
@@ -25,12 +17,6 @@ This is a responsive replica of the official Apple homepage built using **HTML5*
 - ✅ Netlify (for deployment)
 
 ---
-
-## 📁 Folder Structure
-
-
----
-
 ## 📱 Features
 
 - ✅ Fully responsive layout (mobile-friendly)
@@ -47,12 +33,6 @@ This is a responsive replica of the official Apple homepage built using **HTML5*
 - Applying Bootstrap utilities and responsive classes
 - Replicating a real UI layout using only front-end tools
 - Working with deployment tools like Netlify
-
----
-
-## 🚀 Deployment
-
-Deployed using [Netlify](https://www.netlify.com/) with drag-and-drop and GitHub integration.
 
 ---
 
